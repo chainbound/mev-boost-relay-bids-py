@@ -12,8 +12,6 @@ To set up and run this script, follow these steps:
 
 Clone this repository to your local machine:
 
-bashCopy code
-
 ```
 git clone https://github.com/your-username/relay-bids-retrieval.git
 ```
@@ -52,10 +50,10 @@ You can also specify the number of concurrent requests by setting the `CONCURREN
 
 ### 5\. Run the Script
 
-Execute the `main.py` script with the following command, replacing `from_block`, `to_block`, and `filename` with your desired values:
+Execute the `main.py` script with the following command, replacing `from_block`, `to_block` with your desired values:
 
 ```
-python src/main.py from_block to_block filename
+python src/main.py from_block to_block
 ```
 
 For example:
