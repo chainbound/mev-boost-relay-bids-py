@@ -1,4 +1,4 @@
-Relay Bids Metadata Retrieval Script
+Relay Bids Retrieval
 ====================================
 
 This Python script allows you to retrieve relay bids metadata from various relays using the `httpx` library. The script fetches data for a range of block numbers and saves it in a Parquet file. It is designed to work with a virtual environment to manage dependencies.
